@@ -3,7 +3,7 @@
 A sleek, responsive Spotify-inspired webpage built to showcase modern frontend development skills.
 
 <p align="center">
-  <img src="YOUR_GIF_URL_OR_PATH_HERE" alt="Project Demo" width="800">
+ ![demo](assets/demo.mp4)
 </p>
 
 ## 🚀 Features
@@ -13,9 +13,12 @@ A sleek, responsive Spotify-inspired webpage built to showcase modern frontend d
 * **Font Awesome Integration:** Clean, recognizable iconography.
 
 ## 📸 Screenshots
-| Desktop View                 |  Mobile View        |
-|------------------------------|---------------------|
-| <img src="desktopview.png" > | <img src="mobileview.png" > |
+| Desktop View                 
+|-------------------------------------------------
+| ![desktopview Screenshot](assets/desktopview.jpeg) | 
+
+📸 Mobile View 
+![mobileview Screenshot](assets/mobileview.png)
 
 ## 🛠️ Tech Stack
 * **HTML5** - Structure

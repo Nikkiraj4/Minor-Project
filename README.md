@@ -2,9 +2,8 @@
 
 A sleek, responsive Spotify-inspired webpage built to showcase modern frontend development skills.
 
-<p align="center">
- ![demo](assets/demo.mp4)
-</p>
+## Demo Gif
+![Demo Gif](assets/demo.gif)
 
 ## 🚀 Features
 * **Fully Responsive:** Works perfectly on Desktop, Tablet, and Mobile.
